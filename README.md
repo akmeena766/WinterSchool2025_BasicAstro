@@ -6,8 +6,8 @@ Now, let us ask some questions.
    - How does Abell 370 look in the sky?
       - Abell 370 is a cluster of galaxies, and it cannot be seen with the naked eye. 
       - We need a telescope (don't try to build a new one).
-      - Find which of the existing telescopes has already observed/seen it.
-   
+      - Find which of the existing telescopes has already observed/seen it. 
+<br>
    - Where to look?
       - Depends on wavelength coverage. Let us restrict ourselves to optical and infrared. 
       For this, we go to MAST (https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
