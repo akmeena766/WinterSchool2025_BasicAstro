@@ -11,3 +11,5 @@ Now, let us ask some questions.
    - Where to look?
       - Depends on wavelength coverage. Let us restrict ourselves to optical and infrared. 
       For this, we go to MAST (https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
+      - Abell 370 was also targeted under the Hubble Frontier Field (HFF) program 
+      (https://archive.stsci.edu/prepds/frontier/).
