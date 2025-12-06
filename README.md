@@ -1,1 +1,1 @@
-# WinterSchool2025_BasicAstro
+# Winter School 2025: Basic Astro Tutorial
