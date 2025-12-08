@@ -21,5 +21,5 @@ Now, let us ask some questions.
          - DS9 (https://sites.google.com/cfa.harvard.edu/saoimageds9/about)
          - TOPCAT (https://www.star.bris.ac.uk/~mbt/topcat/)
    
-   - **Visualisation: part-2**
+   - **Visualisation: Data analysis**
       - Python (Matplotlib, Numpy, Astropy)
