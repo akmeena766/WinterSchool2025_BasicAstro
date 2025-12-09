@@ -37,7 +37,11 @@ galaxies. Now, let us ask some questions.
          - [F277W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f277w-clear_drc_sci.fits.gz)
 
    
-   - **Visualisation: Data analysis**
-      - Python (Matplotlib, Numpy, Astropy)
+   - **Visualisation: Data analysis**: Here
+      - Required packages: Python (Matplotlib, Numpy, Astropy, Photutils)
 
-   
+   - **Visualisation: Gravitational lensing**: **(Only if time permits)**
+      - Required packages: Julia (LensFactory)
+      - Julia installation: Follow the official instructions from https://julialang.org/
+      - LensFactory.jl installation: Follow instrcution here, https://github.com/akmeena766/LensFactory.jl
+      
