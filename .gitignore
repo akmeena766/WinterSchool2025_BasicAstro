@@ -1,3 +1,4 @@
 *.fits
 .vscode/
 .DS_Store
+*.jpeg
