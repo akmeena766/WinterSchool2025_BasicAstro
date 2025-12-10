@@ -1,6 +1,9 @@
 # Winter School 2025: Basic Astro Tutorial
 
 ---
+The aim of this tutorial is for students to learn how to acquire and interact with telescope data. 
+In a way, this tells you what the first steps are if someone plans to do a related project.  
+
 Let us assume we want to study an object in the sky. For example, consider Abell 2744, a cluster of 
 galaxies. Now, let us ask some questions.
    - **How does Abell 2744 look in the sky?**: First step is to know you object.
