@@ -42,9 +42,10 @@ galaxies. Now, let us ask some questions.
       - Required packages: Python (Matplotlib, Numpy, Astropy, Photutils)
 
    - **Visualisation: Gravitational lensing**: **(Only if time permits)**: At the end of the tutorial, 
-   if time permits, I will show some exampled of 
-      - Required packages: Julia (LensFactory)
-      - Julia installation: Follow the official instructions from https://julialang.org/
-      - LensFactory.jl installation: Follow instrcution here, https://github.com/akmeena766/LensFactory.jl
+   **if time permits**, I will show some examples of gravitational lensing. For that, I will use Julia, 
+   a programming language similar to Python in syntax. For the gravitational lensing part, we will use LensFactory.jl. 
+      - To install Julia, please follow the official instructions at: https://julialang.org/
+      - After installing Julia, to install LensFactory.jl, please follow instrcution here: 
+      https://github.com/akmeena766/LensFactory.jl
       - Feel free to send me any questions about LensFactory.jl at: [akm@iisc.ac.in](mailto:akm@iisc.ac.in)
       
