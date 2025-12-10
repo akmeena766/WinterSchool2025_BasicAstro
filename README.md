@@ -31,7 +31,7 @@ galaxies. Now, let us ask some questions.
 
       - For JWST data, please use this website, https://jwst-uncover.github.io/ , or click on the 
       links below. <code style="color : red">Please keep in mind that these are heavy data products (each one > 1 GB).</code> Hence, it is okay if you are not able to download these. 
-      I will show you how these imges look.
+      I will show you how these images look.
          - [F115W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f115w-clear_drc_sci.fits.gz)
          - [F150W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f150w-clear_drc_sci.fits.gz)
          - [F277W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f277w-clear_drc_sci.fits.gz)
