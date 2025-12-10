@@ -44,4 +44,5 @@ galaxies. Now, let us ask some questions.
       - Required packages: Julia (LensFactory)
       - Julia installation: Follow the official instructions from https://julialang.org/
       - LensFactory.jl installation: Follow instrcution here, https://github.com/akmeena766/LensFactory.jl
+      - Feel free to send me any questions about LensFactory.jl at: [akm@iisc.ac.in](mailto:akm@iisc.ac.in)
       
