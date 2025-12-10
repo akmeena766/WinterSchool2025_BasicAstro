@@ -27,7 +27,7 @@ galaxies. Now, let us ask some questions.
          - TOPCAT (https://www.star.bris.ac.uk/~mbt/topcat/)
       
       - Please download the HST data from HFF website (https://archive.stsci.edu/prepds/frontier/) 
-      or click on the following links.
+      or click on the following links. Put these three data products in a folder named "HST".
          - [F814W Link](https://archive.stsci.edu/pub/hlsp/frontier/abell2744/images/hst/v1.0-epoch2/hlsp_frontier_hst_acs-60mas-selfcal_abell2744_f814w_v1.0-epoch2_drz.fits)
          - [F105W link](https://archive.stsci.edu/pub/hlsp/frontier/abell2744/images/hst/v1.0-epoch1/hlsp_frontier_hst_wfc3-60mas_abell2744_f105w_v1.0_drz.fits)
          - [F160W link](https://archive.stsci.edu/pub/hlsp/frontier/abell2744/images/hst/v1.0-epoch1/hlsp_frontier_hst_wfc3-60mas_abell2744_f160w_v1.0_drz.fits)
@@ -39,6 +39,7 @@ galaxies. Now, let us ask some questions.
          - [F150W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f150w-clear_drc_sci.fits.gz)
          - [F277W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f277w-clear_drc_sci.fits.gz)
 
+      - Also download a catalog file from here: https://drive.google.com/file/d/1cnuLmcow9Jkb9UF3HviPjJVqmRqOrXCj/view
    
    - **Visualisation: Data analysis**: Here
       - Required packages: Python (Matplotlib, Numpy, Astropy, Photutils)
