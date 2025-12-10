@@ -30,7 +30,7 @@ galaxies. Now, let us ask some questions.
          - [F160W link](https://archive.stsci.edu/pub/hlsp/frontier/abell2744/images/hst/v1.0-epoch1/hlsp_frontier_hst_wfc3-60mas_abell2744_f160w_v1.0_drz.fits)
 
       - For JWST data, please use this website, https://jwst-uncover.github.io/ , or click on the 
-      links below. ${\color{red}Please keep in mind that these are heavy data products (each one > 1 GB).}$ Hence,  <code style="color : red">text</code>
+      links below. ${\color{red}Please~keep~in~mind~that these are heavy data products (each one > 1 GB).}$ Hence,  <code style="color : red">text</code>
       it is okay if you do not look into these.
          - [F115W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f115w-clear_drc_sci.fits.gz)
          - [F150W link](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/abell2744clu-grizli-v7.0-f150w-clear_drc_sci.fits.gz)
